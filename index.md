@@ -220,8 +220,8 @@ You may contact us to request restriction of any processing of personal data we 
 ### 8.7 Right to Object
 You may object to any processing of your personal data we carry out on the basis of legitimate interests.
 
-### 8.8 KVKK Rights (Turkey)
-If you are located in Turkey, you have additional rights under the Law on Protection of Personal Data No. 6698 (KVKK), including the right to apply to the Personal Data Protection Authority (Kişisel Verileri Koruma Kurumu — KVKK) at kvkk.gov.tr if you believe your rights have been violated.
+### 8.8 KVKK Rights (Türkiye)
+If you are located in Türkiye, you have additional rights under the Law on Protection of Personal Data No. 6698 (KVKK), including the right to apply to the Personal Data Protection Authority (Kişisel Verileri Koruma Kurumu — KVKK) at kvkk.gov.tr if you believe your rights have been violated.
 
 ### 8.9 GDPR Rights (European Economic Area)
 If you are located in the EEA, you may lodge a complaint with your local data protection supervisory authority.
@@ -329,7 +329,7 @@ We encourage you to review this Policy periodically.
 
 ## 16. Governing Law and Dispute Resolution
 
-This Policy and any disputes arising out of or relating to it shall be governed by and construed in accordance with the laws of the Republic of Turkey, without regard to its conflict of law provisions.
+This Policy and any disputes arising out of or relating to it shall be governed by and construed in accordance with the laws of the Republic of Türkiye, without regard to its conflict of law provisions.
 
 Any dispute shall first be attempted to be resolved through good-faith negotiation. If unresolved within 30 days, disputes shall be subject to the exclusive jurisdiction of Istanbul courts and enforcement offices.
 
@@ -346,7 +346,7 @@ Email: support.shiftmate@icloud.com
 
 We aim to respond to all inquiries within 30 business days.
 
-For data protection complaints in Turkey:
+For data protection complaints in Türkiye:
 **Kişisel Verileri Koruma Kurumu (KVKK)**
 Website: kvkk.gov.tr
 
